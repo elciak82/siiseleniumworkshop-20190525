@@ -1,0 +1,5 @@
+tests/MainTestData.class
+tests/MainTest.class
+helpers/Driver.class
+pages/GenericPage.class
+helpers/Configuration.class
