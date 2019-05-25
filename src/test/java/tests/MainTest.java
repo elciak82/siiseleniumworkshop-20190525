@@ -19,7 +19,7 @@ public class MainTest {
     }
 
     @Test
-    public void MainPageTest1() {
+    public void MainPageTest() {
         driver.get(getConfiguration().getSiteURL());
         assertEquals("Title is correct", MAIN_PAGE_TITLE, driver.getTitle());
     }
